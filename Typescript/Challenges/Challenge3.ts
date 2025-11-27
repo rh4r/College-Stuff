@@ -1,4 +1,4 @@
-*
+/*
 Challenge 3 — Simple Banking Balance Simulator
 
 Simulate a wallet/bank account:
